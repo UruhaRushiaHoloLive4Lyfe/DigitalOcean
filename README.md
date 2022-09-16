@@ -3,8 +3,8 @@ This repo contains information for the Digital Ocean VM
 </head>
 <body>
     <details>
-        <summary>Digital Ocean/summary>
-            Username: Uruh4RuSh14
+        <summary>Digital Ocean </summary>
+            Username: Uruh4RuSh14 <br>
             Password: 潤羽るしあ
     </details>        
 </body>
